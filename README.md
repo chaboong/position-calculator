@@ -1,2 +1,0 @@
-# position-calculator
-position-calculator
